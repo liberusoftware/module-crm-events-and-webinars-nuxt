@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-events-and-webinars-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-events-and-webinars",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-events-and-webinars-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/events-and-webinars.md",
+  "presentationPlan": "projects/crm/nuxt/events-and-webinars.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
